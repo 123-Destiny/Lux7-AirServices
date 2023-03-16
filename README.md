@@ -14,9 +14,11 @@ Configured a Service Portal to showcase services available to clients and knowle
 
 Further enhanced our project by:
 
-Creating and updating workflows, UI policies, system notification, and client scripts
+Creating and updating workflows, UI policies, system notification, and client scripts.
+
 Creating update sets to manage instance migration.
-Automating Lux7 item orders fulfillment and deployment process, including emails to customers when a new order is received and after their order has been shipped
+
+Automating Lux7 item orders fulfillment and deployment process, including emails to customers when a new order is received and after their order has been shipped.
 
 *We do not own the photos featured on our portal
 
