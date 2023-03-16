@@ -1,3 +1,14 @@
+![Aircraft Selection](https://user-images.githubusercontent.com/75024812/225509268-11ac767a-32c4-4bea-877c-840cd849f037.png)
+![Customer Confirmation Notice](https://user-images.githubusercontent.com/75024812/225509270-b0182547-61ef-4ca6-863f-16b5b51c13b9.png)
+![Date Validation UI Policy](https://user-images.githubusercontent.com/75024812/225509272-4ee74d10-f8d9-41a3-bf2c-c9131fedef24.png)
+![Flight Booked Email Notification](https://user-images.githubusercontent.com/75024812/225509274-fb73619e-6564-4b3e-90b0-073eb22e89e8.png)
+![Knowledge Base](https://user-images.githubusercontent.com/75024812/225509275-2a261df2-1a5f-48c2-a3ad-7f0a936fd47d.png)
+![Luxury 7 Portal](https://user-images.githubusercontent.com/75024812/225509281-fe0f08b7-f046-4a5d-a96a-54fbcb40f0c4.png)
+![Price Change Client Script](https://user-images.githubusercontent.com/75024812/225509284-556e390d-c74c-414e-8ba1-dd51f82e80c6.png)
+![Requested Services](https://user-images.githubusercontent.com/75024812/225509287-9f0fc517-8a5b-4f07-b4c6-6409110f9ff3.png)
+![Services Offered Knowledge Article](https://user-images.githubusercontent.com/75024812/225509289-861f6af1-0eb9-49e6-9a93-cff89a29e71d.png)
+![Team Notfication of Orders Received](https://user-images.githubusercontent.com/75024812/225509292-8b4fcdfb-a7d6-4675-9664-9b86ed7545ec.png)
+
 # Lux7-AirServices
 
 This repositiory is dedicated to demonstrating my final project for the ServiceNow NextGen Professionals Externship.
