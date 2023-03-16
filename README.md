@@ -6,6 +6,7 @@ I collaborated with cross-functional teams to ensure successful implementation o
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 For the final project my group mates and I created a scoped application using Studio Application.
+
 We were contracted by Luxary7, LLC. to provide a solution for increased service delivery demands and enhanced client UI experience. 
 
 Accomplishments:
